@@ -1,4 +1,4 @@
-The projected is deployed in [this](https://blissful-blackwell-bf3bb7.netlify.app/) link<br />
+The projected is deployed in [this](https://ayush-pomodoroclock.netlify.app/) link<br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
