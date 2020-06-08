@@ -1,3 +1,4 @@
+The projected is deployed in [this](https://blissful-blackwell-bf3bb7.netlify.app/) link
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
