@@ -33,7 +33,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Pomodromo Clock</h1>
+      <h1>Pomodoro Clock</h1>
       <BreakLabel
         breakLength={breakLength}
         setBreakLength={setBreakLength}
